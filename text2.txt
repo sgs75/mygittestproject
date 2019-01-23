@@ -1,3 +1,5 @@
 content of file2.txt
 
-Error fixing in file2.txt
+Error fixing in text2.txt
+
+Error fixed in text2.txt
